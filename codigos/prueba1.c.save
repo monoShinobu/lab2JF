@@ -1,0 +1,9 @@
+#include<libreria.c>libreria
+#include<stdio.h>
+
+int main(){
+
+printf("hola javier");
+
+return 0;
+}
